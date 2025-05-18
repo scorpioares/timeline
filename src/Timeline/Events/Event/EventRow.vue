@@ -405,17 +405,17 @@ const ganttTitleStyle = computed(() => {
 }
 
 .eventDate {
-  font-family: system-ui;
+  font-family: "LXGW WenKai";
   margin: 0px 0px 0px 8px;
 }
 
 .source {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+  font-family: "LXGW WenKai", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
 .eventTitle {
-  font-family: system-ui;
+  font-family: "LXGW WenKai";
 
   grid-row: 1;
   grid-column: 3;

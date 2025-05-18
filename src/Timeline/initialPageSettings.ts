@@ -7,7 +7,7 @@ import {
   floorDateTime,
 } from "./utilities/dateTimeUtilities";
 
-const initialScale = 0.3;
+const initialScale = 35;
 
 export interface Settings {
   scale: number;

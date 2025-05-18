@@ -63,6 +63,6 @@ const click = (e: MouseEvent) => emit("click", e);
 
 <style scoped>
 .eventTitle {
-  font-family: system-ui;
+  font-family: "LXGW WenKai";
 }
 </style>
